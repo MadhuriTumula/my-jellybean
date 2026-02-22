@@ -1,10 +1,10 @@
-# SafeKit Shield 🛡️
+# MyJellyBean 🫧
 
-SafeKit Shield is a full-stack safety analysis tool designed to help people detect scams, impersonation, harassment, and other digital risks in messages.
+MyJellyBean is a full-stack safety analysis tool designed to help people detect scams, impersonation, harassment, and other digital risks in messages.
 
 ## 🚀 How it helps human safety
 
-SafeKit Shield acts as a "second set of eyes" for suspicious digital interactions. By providing:
+MyJellyBean acts as a "second set of eyes" for suspicious digital interactions. By providing:
 - **Objective Risk Scoring:** Removing the emotional urgency scammers rely on.
 - **Red Flag Detection:** Highlighting specific signals like "asked for OTP" or "threatened me".
 - **Actionable Checklists:** Giving users clear, non-escalatory steps to take immediately.
